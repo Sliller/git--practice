@@ -1,0 +1,64 @@
+[33mcommit 42b8680ce933f30b811aae48f54e95325844aa37[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature1[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeature1[m[33m)[m
+Author: Sliller Virtual <15261102866@163.com>
+Date:   Thu Apr 22 17:08:52 2021 +0800
+
+    add feature-1
+
+[1mdiff --git a/feature-1.txt b/feature-1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit c2a63d129d8a30fc0d8a6e3d06ed854144bbdde6[m
+Author: Sliller <15261102866@163.com>
+Date:   Thu Apr 22 16:47:30 2021 +0800
+
+    delete
+
+[1mdiff --git "a/\347\254\254\344\270\200\346\254\241\346\217\220\344\272\244.txt" "b/\347\254\254\344\270\200\346\254\241\346\217\220\344\272\244.txt"[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+
+[33mcommit 0f3554661818689cc54233acaceda865aa8c50da[m
+Author: Sliller Virtual <15261102866@163.com>
+Date:   Thu Apr 22 16:38:04 2021 +0800
+
+    add third.txt
+
+[1mdiff --git a/third.txt b/third.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 3a4aefe659ad48892bfaf934ce8e157a1a3dbe8e[m
+Author: Sliller <15261102866@163.com>
+Date:   Thu Apr 22 16:06:47 2021 +0800
+
+    add "second.txt"
+
+[1mdiff --git a/second.txt b/second.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 045f1083a1fc195f80d2195c8c44f452b3eefe12[m
+Author: Sliller <15261102866@163.com>
+Date:   Thu Apr 22 15:49:30 2021 +0800
+
+    my first commit
+
+[1mdiff --git "a/\347\254\254\344\270\200\346\254\241\346\217\220\344\272\244.txt" "b/\347\254\254\344\270\200\346\254\241\346\217\220\344\272\244.txt"[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit d7d83baf65203c906a0e4ab4323e2ecfb9596d06[m
+Author: Ssspecial_river <31638802+Sliller@users.noreply.github.com>
+Date:   Thu Apr 22 15:41:38 2021 +0800
+
+    Initial commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a5f511a[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m# git--practice[m
+[32m+[m[32ma practice learning[m
